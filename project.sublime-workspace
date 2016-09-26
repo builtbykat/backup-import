@@ -1,0 +1,1203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"Fi",
+				"filename"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"run",
+				"runValidation"
+			],
+			[
+				"upl",
+				"upld_form"
+			],
+			[
+				"query",
+				"queryRows"
+			],
+			[
+				"inser",
+				"insertValues"
+			],
+			[
+				"crea",
+				"createTable"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"uplo",
+				"uploaded_csv"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"uploa",
+				"uploads_dir"
+			],
+			[
+				"up",
+				"uploads_dir"
+			],
+			[
+				"tabl",
+				"table_chosen"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"sub",
+				"subject_option"
+			],
+			[
+				"site",
+				"site_list"
+			],
+			[
+				"post",
+				"postatts"
+			],
+			[
+				"aut",
+				"author_name"
+			],
+			[
+				"pos",
+				"postatts"
+			],
+			[
+				"author",
+				"author_url"
+			],
+			[
+				"replace",
+				"replaceName"
+			],
+			[
+				"replaceAv",
+				"replaceAvatarInListing"
+			],
+			[
+				"add",
+				"add_filter"
+			],
+			[
+				"avatar",
+				"avatar-other"
+			],
+			[
+				"m",
+				"meta_key"
+			],
+			[
+				"new",
+				"new_meta_value"
+			],
+			[
+				"met",
+				"meta_value"
+			],
+			[
+				"au",
+				"authorSocial"
+			],
+			[
+				"me",
+				"meta_value"
+			],
+			[
+				"repla",
+				"replaceInfo"
+			],
+			[
+				"meta",
+				"meta_value"
+			],
+			[
+				"cred",
+				"credit-other"
+			],
+			[
+				"credti",
+				"credit_other_nonce"
+			],
+			[
+				"cr",
+				"credit-other"
+			],
+			[
+				"credit",
+				"credit-other-author"
+			],
+			[
+				"credi",
+				"credit-other"
+			],
+			[
+				"Credit",
+				"Credit_Other"
+			],
+			[
+				"the",
+				"the_query"
+			],
+			[
+				"get",
+				"get_post_atts"
+			],
+			[
+				"even",
+				"event_total"
+			],
+			[
+				"che",
+				"checkbox_val"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"near",
+				"near_distance"
+			],
+			[
+				"nex",
+				"next-month"
+			],
+			[
+				"lat",
+				"latlon"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"ch",
+				"checked_item"
+			],
+			[
+				"our",
+				"our_js"
+			],
+			[
+				"git",
+				"git_url"
+			],
+			[
+				"get_cr",
+				"get_current_blog_id"
+			],
+			[
+				"border",
+				"border-bottom-color"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"_add",
+				"_add_their_js"
+			],
+			[
+				"qu",
+				"queueup"
+			],
+			[
+				"rende",
+				"renderSiteJs"
+			],
+			[
+				"get_curr",
+				"get_current_blog_id"
+			],
+			[
+				"dev",
+				"devcenterjs"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"defa",
+				"default_url"
+			],
+			[
+				"de",
+				"default_libs"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"defau",
+				"default_url"
+			],
+			[
+				"gitlib",
+				"git_libs"
+			],
+			[
+				"gi",
+				"git_libs"
+			],
+			[
+				"render",
+				"renderLibrary"
+			],
+			[
+				"additiona",
+				"additional_js"
+			],
+			[
+				"admin_",
+				"admin_init"
+			],
+			[
+				"sca",
+				"scanDir"
+			],
+			[
+				"default",
+				"default_directory"
+			],
+			[
+				"sc",
+				"scanDir"
+			],
+			[
+				"lib",
+				"lib_path"
+			],
+			[
+				"js",
+				"js-libs"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"wp",
+				"wp_loaded"
+			],
+			[
+				"get_use",
+				"get_user_meta"
+			],
+			[
+				"margo",
+				"margin-bottom"
+			],
+			[
+				"EM",
+				"EM_Event"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"scr",
+				"screen_id"
+			],
+			[
+				"wp_",
+				"wp_enqueue_script"
+			],
+			[
+				"tag",
+				"tag_list"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"css",
+				"css_url"
+			],
+			[
+				"vali",
+				"validateSettings"
+			],
+			[
+				"val",
+				"validateSettings"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"th",
+				"theInput"
+			],
+			[
+				"radio",
+				"radioSelect"
+			],
+			[
+				"flus",
+				"flush_rewrite_rules"
+			],
+			[
+				"docs",
+				"docs_hier_active"
+			],
+			[
+				"ar",
+				"aria-controls"
+			],
+			[
+				"doT",
+				"doThingsForThesePages"
+			],
+			[
+				"b",
+				"bootstrapper"
+			],
+			[
+				"setMenu",
+				"setMenuItems"
+			],
+			[
+				"men",
+				"menu_id"
+			],
+			[
+				"page",
+				"pageid"
+			],
+			[
+				"pag",
+				"pageid"
+			],
+			[
+				"https",
+				"httpsOurSite"
+			],
+			[
+				"blog",
+				"blog_id"
+			],
+			[
+				"post_",
+				"post_type"
+			],
+			[
+				"tab-",
+				"tab-dropdown"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2215,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layout.blade.php",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/upld_form.blade.php",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/bkup_form.blade.php",
+			"settings":
+			{
+				"buffer_size": 888,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/TableDownloadController.php",
+			"settings":
+			{
+				"buffer_size": 1617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/TableImportController.php",
+			"settings":
+			{
+				"buffer_size": 2884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/app.php",
+			"settings":
+			{
+				"buffer_size": 9090,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/katsioson/workspace/project",
+		"/Users/katsioson/workspace/project/app",
+		"/Users/katsioson/workspace/project/app/Http",
+		"/Users/katsioson/workspace/project/app/Http/Controllers",
+		"/Users/katsioson/workspace/project/config",
+		"/Users/katsioson/workspace/project/public/css",
+		"/Users/katsioson/workspace/project/resources",
+		"/Users/katsioson/workspace/project/resources/assets/sass",
+		"/Users/katsioson/workspace/project/resources/views",
+		"/Users/katsioson/workspace/project/resources/views/errors"
+	],
+	"file_history":
+	[
+		"/Users/katsioson/workspace/project/.env",
+		"/Users/katsioson/workspace/project/resources/views/errors/503.blade.php",
+		"/Users/katsioson/workspace/project/app/Exceptions/Handler.php",
+		"/Users/katsioson/workspace/project/server.php",
+		"/Users/katsioson/workspace/project/routes/web.php",
+		"/Users/katsioson/workspace/project/routes/console.php",
+		"/Users/katsioson/workspace/project/routes/api.php",
+		"/Users/katsioson/workspace/project/public/web.config",
+		"/Users/katsioson/workspace/project/public/index.php",
+		"/Users/katsioson/workspace/project/resources/views/error.blade.php",
+		"/Users/katsioson/workspace/project/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/katsioson/workspace/project/resources/assets/sass/app.scss",
+		"/Users/katsioson/workspace/project/app/Http/Controllers/TableImportController.php",
+		"/Users/katsioson/workspace/project/resources/views/upld_form.blade.php",
+		"/Users/katsioson/workspace/project/resources/views/bkup_form.blade.php",
+		"/Users/katsioson/workspace/project/resources/views/welcome.blade.php",
+		"/Users/katsioson/workspace/project/resources/views/success.blade.php",
+		"/Users/katsioson/workspace/project/app/Http/Controllers/TableDownloadController.php",
+		"/Users/katsioson/workspace/project/resources/assets/css/style.css",
+		"/Users/katsioson/workspace/project/resources/views/layout.blade.php",
+		"/Users/katsioson/workspace/project/gulpfile.js",
+		"/Users/katsioson/workspace/project/tests/ExampleTest.php",
+		"/Users/katsioson/workspace/project/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/katsioson/workspace/project/app/User.php",
+		"/Users/katsioson/workspace/project/app/Http/Controllers/Controller.php",
+		"/Users/katsioson/workspace/project/bootstrap/autoload.php",
+		"/Users/katsioson/workspace/project/config/database.php",
+		"/Users/katsioson/workspace/project/config/app.php",
+		"/Users/katsioson/workspace/project/app/Valley.php",
+		"/Users/katsioson/workspace/project/app/Http/Controllers/Valley.php",
+		"/Users/katsioson/workspace/project/resources/views/valley.php",
+		"/Users/katsioson/workspace/project/app/views/dnld_form.php",
+		"/Users/katsioson/workspace/project/app/Tables.php",
+		"/Users/katsioson/workspace/dirtpan/project/project/config/database.php",
+		"/Users/katsioson/workspace/project/app/views/bkup_form.php",
+		"/Users/katsioson/workspace/project/app/routes.php",
+		"/Users/katsioson/workspace/project/app/config/app.php",
+		"/Users/katsioson/workspace/project/app/database/migrations/2016_09_23_203815_create_nerds_table.php",
+		"/Users/katsioson/workspace/project/app/database/migrations/2016_09_23_201410_create_backups_table.php",
+		"/Users/katsioson/workspace/project/app/database/migrations/2016_09_23_024027_create_users_table.php",
+		"/Users/katsioson/workspace/project/app/views/layout.blade.php",
+		"/Users/katsioson/workspace/project/app/views/tables.blade.php",
+		"/Users/katsioson/workspace/project/app/controllers/UserController.php",
+		"/Users/katsioson/workspace/project/app/models/User.php",
+		"/Users/katsioson/workspace/project/app/controllers/BaseController.php",
+		"/Users/katsioson/workspace/project/app/controllers/HomeController.php",
+		"/Users/katsioson/workspace/project/app/config/database.php",
+		"/Users/katsioson/workspace/project/app/views/users.blade.php",
+		"/Users/katsioson/workspace/dirtpan/project/index.php",
+		"/Users/katsioson/workspace/project/app/views/hello.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/header.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/shortcodes/pn-card-shortcode.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/shortcodes/pn-getposts-shortcode.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-bluemixdev/functions.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-bluemixdev/js/responsive.js",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-ai/functions.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-ai/intercept_ninja_emails.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-ai/front-page.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/group-blogs/template-group-blogs.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/admin/admin-menu2.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/functions/initializer2.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/group-blogs/group-blogs.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-korea-pagetemplates/template-watson.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-korea-pagetemplates/boomer-templates.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/boomer-v18/shortcodes/pn-getposts-shortcode.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/boomer-v18/template-parts/content-brochure.php",
+		"/Users/katsioson/Downloads/template-site-health.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/template-parts/content-single.php",
+		"/Users/katsioson/workspace/wordpress/wp-config.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/single.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/more-privacy-options/ds_wp3_private_blog.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/group-blogs/boomer-templates.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-marketplace-pagetemplates/boomer-templates.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-docs-categorical-2/projectnext-docs-categorical-2.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/credit-another-author/credit-another-author.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/functions.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/page.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-marketplace-pagetemplates/page-confirmation.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-marketplace-pagetemplates/page-enroll.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-courses/projectnext-courses.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-core/projectnext-core.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext/functions.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext/functions/widgets.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/admin/codemirror/boomer-codemirror-compressed.js",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/admin/codemirror/codemirror.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-agiledevops/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-api-management/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloudbuilder/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloudfabric/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/devadvocacy/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cognos/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-oscon/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-ico/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-iot/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-pdashboard/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-worklight/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/remix-theme/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-premium/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwlanding-1.1/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/developer-dot-ibm-dot-com/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-iib/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-bpm-gamification/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-channels/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-bpm/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-social-biz/style.css",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/devcentral-content-creator/devcentral-content-creator.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-includes/feed-rss2.php",
+		"/Users/katsioson/workspace/v18/app/reskinning/registration/v18.html",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/inc/template-tags.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-shortcodes/tab-dropdown.js",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-shortcodes/tab-shortcode.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloud4z/functions.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/credit-another-author/credit-other.js",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloudmarketplace/page-confirmation.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloudmarketplace/page-enroll.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloudmarketplace/status_landing.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext-cloudmarketplace/status_page.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-videos-2/projectnext-videos-2.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/projectnext-recipes/projectnext-recipes.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/functions/scripts-and-styles.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/functions/getFileContents.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/functions/header_js.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/functions/js-libs.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/dwboomer/inc/custom-header.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-india-pagetemplates/boomer-templates.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext/page-with-tabs.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes/projectnext/partials/content.php",
+		"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins/_dc-india-pagetemplates/template-learn.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/",
+			"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content",
+			"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/",
+			"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/plugins",
+			"/Users/katsioson/workspace/production/com.ibm.next.devcentral/WebContent/wp-content/themes",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if you want to see all of the blogs",
+			"menu",
+			"restore",
+			"l10n_prefix",
+			"$option",
+			"update",
+			"sitewide_privacy",
+			"update_wp",
+			"network",
+			"sitewide_privacy_update",
+			"update_wpmu_options'",
+			"sitewide_privacy_options_page",
+			"sitewide_",
+			"save",
+			"details",
+			"$options",
+			"confirm",
+			"confirma",
+			"confirm",
+			"enroll",
+			"extenti",
+			"orchestrator",
+			"projectnext-10x",
+			"author_url",
+			"echo",
+			"var_dump",
+			"the_co",
+			"apply_filters",
+			"meta",
+			"sessionStorage",
+			"session",
+			"foobar",
+			"mi",
+			"tabs",
+			"additional",
+			"checked",
+			"git_url",
+			"do_sho",
+			"$this->shortcode_tag",
+			"pn_grid_shortcode",
+			"git_url",
+			"var_dump",
+			"jquery",
+			".subpage-nav a",
+			".name",
+			"save",
+			"blog_id",
+			"$blog_id",
+			"get_current",
+			"37",
+			"3",
+			"37",
+			"git",
+			"flexslider",
+			"$This->git",
+			"url",
+			"git_libs",
+			"default_url",
+			"scan",
+			"var",
+			"lib",
+			"scan",
+			"json",
+			"git_dir",
+			"url",
+			"libs",
+			"dire",
+			"directory",
+			"error_reporting",
+			"display_errors",
+			"removeTitleFluff",
+			"get_the_archive_title",
+			"archive",
+			"kat",
+			"ext",
+			"extlinks",
+			"$ext",
+			"$ex",
+			"var_dump",
+			"render",
+			"readme",
+			"function",
+			"plugins",
+			"pdc",
+			"mySta",
+			"local",
+			"localh",
+			"brick",
+			"solutions",
+			"pnext_domain",
+			"font-",
+			"label",
+			"cloud orchestrator",
+			"rss",
+			"category",
+			"pre",
+			"	if( is_array($tags) && count($tags) > 0 ){\n				$tags_list = array();\n				foreach($tags as $tag){ \n					$link = get_term_link($tag->slug, $args['tags']);\n					if ( is_wp_error($link) ) $link = '';\n					$tags_list[] = '<a href=\"'. $link .'\">'. $tag->name .'</a>';\n				}\n				echo implode(', ', $tags_list);\n			}",
+			"json",
+			"select2",
+			"validate",
+			"content",
+			"value",
+			"\nTwitter username (without @)",
+			"Searching",
+			"user_contactmethods",
+			"js",
+			"pnext_recipes_scripts",
+			"get_site_users_for_select2",
+			"the_site_users_for_select2",
+			"the_site_users",
+			"pnext-search-input",
+			"pnext-search-input ",
+			"search",
+			"nav",
+			"ASC",
+			"iframe",
+			"search",
+			"Blog",
+			"request",
+			"request_s",
+			"self::",
+			"self::pages",
+			"self->",
+			"self::",
+			"this::",
+			"$this::",
+			"$this->",
+			"is_main_blog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->",
+			"self::",
+			"self->",
+			"self::",
+			"this::",
+			"$this::"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/assets/sass/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 27,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1901,
+								1901
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 74,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 556.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layout.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 20,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/upld_form.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 14,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/bkup_form.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 18,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/TableDownloadController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 18,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Http/Controllers/TableImportController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1002,
+								1002
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 41,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1759.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6414,
+								6414
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 173,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/dirtpan/wp-content/dirtpan.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

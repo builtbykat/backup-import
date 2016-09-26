@@ -1,0 +1,31 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$blue: #2882b5;
+$white: #fff;
+
+.top-right {
+    color: #fff;
+    float: right;
+    margin-top: -35px;
+}
+.header {
+    background-color: $blue;
+    border: medium none $blue;
+    border-radius: 5px 5px 0px 0px;
+    color: $white;
+    margin-top: 20px;
+    padding: 5px 20px;
+}
+.content {
+    border: 1px solid #ccc;
+    border-radius: 0 0 5px 5px;
+    padding: 20px;
+}
